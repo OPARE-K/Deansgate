@@ -1,0 +1,14 @@
+quantum computing
+quantum gates
+superposition 
+quantum bits
+classical bits
+measurements
+quantum properties
+annealing
+entanglement
+rotation
+quantum circuits
+
+circ
+qiskit
